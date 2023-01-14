@@ -35,4 +35,4 @@ Users should be able to:
 
 ## Author
 
-- Github - [@UnTalPeluca](https://github.com/UnTalPeluca)
+- UnTalPeluca
